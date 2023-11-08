@@ -1,2 +1,2 @@
 # GamesStore
-Projeto feito durante o curso de CSS grid.
+Projeto done with grid CSS.
